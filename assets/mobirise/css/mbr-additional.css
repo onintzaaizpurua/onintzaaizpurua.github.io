@@ -752,7 +752,7 @@ a {
 .cid-sRzWhLHQ5f {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #353535;
+  background-color: #bbbbbb;
 }
 .cid-sRzWhLHQ5f .mbr-overlay {
   background-color: #ffffff;
@@ -773,57 +773,32 @@ a {
 .cid-sRzWhLHQ5f .mbr-section-title {
   color: #ffffff;
 }
-.cid-sRE8UPoF9V {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
+.cid-sUHDqq7BFJ {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/1-1600x1068.jpg");
 }
-.cid-sRE8UPoF9V img,
-.cid-sRE8UPoF9V .item-img {
-  width: 100%;
+.cid-sUHDqq7BFJ .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
 }
-.cid-sRE8UPoF9V .item:focus,
-.cid-sRE8UPoF9V span:focus {
-  outline: none;
-}
-.cid-sRE8UPoF9V .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-sRE8UPoF9V .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #f2eef2;
-  height: 100%;
+.cid-sUHDqq7BFJ .panel-title {
   display: flex;
-  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: space-between;
 }
-@media (min-width: 992px) {
-  .cid-sRE8UPoF9V .item-wrapper .item-content {
-    padding: 2rem;
-  }
+.cid-sUHDqq7BFJ .mbr-iconfont {
+  padding-left: 1rem;
+  font-family: 'Moririse2' !important;
+  font-size: 1.4rem !important;
+  color: #bbbbbb;
 }
-@media (max-width: 991px) {
-  .cid-sRE8UPoF9V .item-wrapper .item-content {
-    padding: 1rem;
-  }
+.cid-sUHDqq7BFJ .panel-body,
+.cid-sUHDqq7BFJ .card-header {
+  padding: 1rem 0;
 }
-.cid-sRE8UPoF9V .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-sRE8UPoF9V .mbr-section-title {
-  color: #232323;
-}
-.cid-sRE8UPoF9V .mbr-text,
-.cid-sRE8UPoF9V .mbr-section-btn {
-  text-align: left;
-}
-.cid-sRE8UPoF9V .item-title {
-  text-align: left;
-  color: #353535;
-}
-.cid-sRE8UPoF9V .item-subtitle {
-  text-align: left;
+.cid-sUHDqq7BFJ .panel-title-edit {
+  color: #000000;
 }
 .cid-sRAqWLHN7c {
   padding-top: 2rem;
@@ -875,7 +850,7 @@ a {
 .cid-sRzYpXwYUM {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background: #353535;
+  background: #bbbbbb;
 }
 @media (max-width: 767px) {
   .cid-sRzYpXwYUM .row {
