@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Onintza Aizpurua Fisioterapia",
+    "name": "Onintza Aizpurua Fisioterapia Zarautz",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -52,13 +52,15 @@
     "favicon": "@PROJECT_PATH@/assets/images/onintza-ikonoa-grisa-128x128.png",
     "mbrsiteDomain": "2buruh697p",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://www.onintzaaizpurua.eus",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "modified": "2022-01-20T16:57:05.695Z"
+    "modified": "2022-01-20T16:57:05.695Z",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-5HDTBXVD8T\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-5HDTBXVD8T');\n</script>",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
